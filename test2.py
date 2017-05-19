@@ -1,4 +1,4 @@
-#!/usr/bin/python ARTSVI Taron
+#!/usr/bin/python ARTSVI Taron Barev
 # -*- coding: utf-8 -*-
 
 class Ket():
